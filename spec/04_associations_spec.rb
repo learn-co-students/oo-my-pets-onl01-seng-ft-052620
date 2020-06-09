@@ -1,3 +1,4 @@
+require 'Pry'
 require_relative 'spec_helper.rb'
 
 describe "Associations" do
