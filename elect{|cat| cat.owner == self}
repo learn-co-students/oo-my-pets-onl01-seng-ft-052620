@@ -1,0 +1,12 @@
+=> [[32m#<Cat:0x00007fffd48580f0[0m
+  @mood[32m=[0m[31m[1;31m"[0m[31mnervous[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mGarfield[1;31m"[0m[31m[0m,
+  @owner[32m=[0m[32m#<Owner:0x00007fffd4858208[0m @cats[32m=[0m[...], @name[32m=[0m[31m[1;31m"[0m[31mTimmy[1;31m"[0m[31m[0m, @species[32m=[0m[31m[1;31m"[0m[31mhuman[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Cat:0x00007fffd4858078[0m
+  @mood[32m=[0m[31m[1;31m"[0m[31mnervous[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mFido[1;31m"[0m[31m[0m,
+  @owner[32m=[0m[32m#<Owner:0x00007fffd4858208[0m @cats[32m=[0m[...], @name[32m=[0m[31m[1;31m"[0m[31mTimmy[1;31m"[0m[31m[0m, @species[32m=[0m[31m[1;31m"[0m[31mhuman[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<Cat:0x00007fffd4866d80[0m
+  @mood[32m=[0m[31m[1;31m"[0m[31mnervous[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mWhiskers[1;31m"[0m[31m[0m,
+  @owner[32m=[0m[32m#<Owner:0x00007fffd4858208[0m @cats[32m=[0m[...], @name[32m=[0m[31m[1;31m"[0m[31mTimmy[1;31m"[0m[31m[0m, @species[32m=[0m[31m[1;31m"[0m[31mhuman[1;31m"[0m[31m[0m[32m>[0m[32m>[0m]
