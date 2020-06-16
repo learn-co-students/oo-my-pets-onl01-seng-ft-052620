@@ -23,6 +23,10 @@ describe "Associations" do
       end
     end
 
+  before do 
+    Owner.reset_all 
+  end
+
     describe "#dogs" do
       it "returnsa a collection of all the dogs that belong to the owner" do
         dog_1 = Dog.new("Fido", @owner)
@@ -35,6 +39,9 @@ describe "Associations" do
         expect(@owner.dogs.count).to eq(3)
       end
     end
+    
+    
+    
     describe "#buy_cat" do
       it 'can buy a cat that is an instance of the Cat class' do
         expect(@owner.cats.count).to eq(0)
